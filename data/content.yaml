@@ -1,0 +1,195 @@
+BasicInfo:
+  FirstName: Ayaz
+  LastName: Hemani
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: '<a href="tel:+18135087741">+1 813 508 7741</a>'
+    - Icon: fas fa-envelope
+      Info: '<a href="mailto:ayazhemani@gmail.com">ayazhemani@gmail.com</a>'
+    - Icon: fas fa-globe
+      Info: '<a href="https://hemani.dev">hemani.dev</a>'
+    - Icon: fas fa-map-marker-alt
+      Info: Minneapolis, MN
+
+Profile: Software engineer with a passion for leadership development, volunteering, and agile innovation
+
+Experience:
+  - Employer: General Dynamics – Mission Systems
+    Place: Minneapolis, MN
+    Positions:
+      - Title: Adv Software Engineer
+        Date: Oct 2018 - Present
+        Details:
+          - Led a software team of 20+ to design, develop, integrate, test, and release software components and APIs for the High Resolution Programmable Display Generator (HRPDG)
+          - Developed embedded NIST-compliant security services for RTOS based software products
+        Badges: ['C', 'Python', 'SQL']
+
+  - Employer: The Nielsen Company
+    Place: Tampa, FL
+    Positions:
+      
+      - Title: Innovations Lead, Research and Development        
+        Date: May 2017 - Oct 2018
+        Details:
+          - Defined business opportunities to increase quality, reduce cycle time, and reduce cost
+          - Built, partnered, invested, and purchased to acquire capabilities to grow revenue
+          - Led IP harvesting initiatives for expanding retail and manufacturer measurement services
+        Badges: ['AI', 'Bots', 'IoT', 'Mixed Reality', 'Blockchain', 'AWS', 'Python', 'Flask']
+
+      - Title: Technical Project Manager
+        Date: July 2013 - May 2017
+        Details:
+          - Developed and deployed watermarks solution for TV crediting internationally
+          - Created statistical validation process for TV signature matcher
+          - Developed emerging retail trends tools to identify gaps and increase revenue by $14.2M
+        Badges: ['C', 'Python', 'AWS', 'Java', 'Hadoop', 'Jama']
+
+  - Employer: General Electric - Aviation Systems
+    Place: Tampa, FL
+    Positions:
+      - Title: Software Engineer
+        Date: May 2012 - Aug 2012
+        Details:
+          - Developed verification procedures, scripts, and hardware for the KC-46 MCDU
+          - ScrumMaster for government classified project
+        Badges: ['C', 'C++',  'Jira']
+
+  - Employer: Sumo Software Corporation
+    Place: Tampa, FL
+    Positions:
+      - Title: Web Application Developer
+        Date: Aug 2009 - May 2012
+        Details:
+          - Web app development for text-to-speech dictation Windows Phone app (‘Lip Service’)
+          - Improved multi-language support of dictation with syndication of APIs (Google & Mozilla)
+        Badges: ['C#', 'HTML', 'Javascript']
+
+Education:
+  - Course: Masters of Science in Computer Science, MSCS
+    Date: '<a href="http://commencement.gatech.edu/sites/default/files/documents/fall-2019-commencement-program.pdf" style="color:#B71C1C">Dec 2019</a>'
+    Place: '<i>Georgia Institute of Technology,</i> GPA: 3.7/4.0, Cum Laude'
+    Details: 'Specialization: <a href="https://www.cc.gatech.edu/academics/degree-programs/masters/computer-science/specializations">Interactive Intelligence</a>'
+
+  - Course: Bachelors of Science in Computer Engineering, BSCP
+    Date: May 2013
+    Place: '<i>University of South Florida</i>'
+
+Projects:
+  - Title: '<a href="http://eng.usf.edu/about/news/11-27-2012%20IEEE%20Microcontroller%20Conference.pdf">ITAE “Introducing Technology for Advancing Education”</a>'
+    Organization: 'IEEE USF, LogikLabs Inc, & The Nielsen Company'
+    Date: March 2011 – Present
+    Details:
+      - Delivered annual programming competitions to empower students to compete externally
+      - Delivered microcontroller talks, workshops, and competitions to students
+      - Developed automated competition tool for practice, competitions, and job placement
+    Badges: ['Arduino', 'Competitions', 'Microcontrollers']
+  - Title: '<a href="https://www.usf.edu/engineering/cse/documents/summer2013-newsletter.pdf">Gamifying Personal Health Systems</a> #SoftwareBytes'
+    Organization: 'Microsoft ImagineCup Competition – Microsoft Inc.'
+    Date: Feb 2013 – May 2013
+    Details:
+      - Developed a ‘continuum’ experience between Windows devices (Xbox, PC, mobile app)
+      - Architected personal health system to encourage fitness tracking and improvement
+      - Gamified fitness for students by utilizing out-of-game health points (mobile apps- pedometers, sleep tracking, etc) to contribute to Xbox/PC in-game points, badges, & rewards.
+    Badges: ['Azure', 'C#', 'Kinect', 'Windows Phone', 'IoT', 'APIs']
+  - Title: 'WiFi Controlled Remote Controlled Car'
+    Organization: 'LogikLabs Exhibit: USF Engineering Expo'
+    Date: Spring 2011
+    Details:
+      - Built an RC car that interfaced with a microcontroller and a configured router in order to receive remote WiFi requests. This extended the range of the car to over 500ft.
+    Badges: ['Arduino', 'WiFi', 'Networking']
+  - Title: '<a href="https://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=4801&context=ujmm">Automated Determination of a Package’s Center of Mass</a>'
+    Organization: 'MAC 2283: Engineering Calculus III'
+    Date: Fall 2010
+    Details:
+      - Worked with UPS employees to help create a more efficient arrangement of packages within trucks to handle delivery of fragile items by creating a double integral program.
+    Badges: ['Calculus', Publication]
+
+
+Awards:
+  - Title: '<u>Patent Disclosure:</u> <a href="https://patents.justia.com/patent/10366404">Palette Analysis to Detect Ad Campaign Membership</a>'
+    Details: 'Grouped ad creatives based on palette analysis and determined campaign similarities'
+  - Title: '<u>Patent Disclosure:</u> Product Identification Across Localizations by Visual Input'
+    Details: 'Grouped products based on localized product packaging for reference identification'
+  - Title: '<u>Patent Disclosure:</u> TV Mode Detection through Ambient Radiation Detection'
+    Details: 'Determine TV On-Off detection based on radiation threshold generated by active TV'
+  - Title: '<u>Patent Disclosure:</u> Indoor Location Identification and Tracking by Audit Activities'
+    Details: 'Leveraged retail audit services to identify location reference data signatures'
+  - Title: '<u>Whitepaper:</u> A New Product Introduction Agile Process'
+    Details: 'Proposed integration of agile and iterative development processes at Nielsen'
+  - Title: '<u>Whitepaper:</u> Ad Verification Reimagined – Blockchain Verification Ecosystems'
+    Details: 'Provide higher quality verification of campaign impression through a trusted ecosystem'
+  - Title: '<u>Whitepaper:</u> Defining Television Viewing Scenarios'
+    Details: 'Defined differences in TV viewing and how measurement changes across platforms'
+  - Title: '<a href="https://www.presidentialserviceawards.gov/">Presidential Volunteer Service Award - Gold Level</a>'
+    Details: 'Corporation for National and Community Service'
+
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - C/C++
+      - Java
+      - HTML
+      - SQL
+      - C#
+      - Bash
+  - Family: Frameworks
+    Items:
+      - REST
+      - Flask
+      - Django
+      - Hugo
+      - React
+  - Family: Developer Tools
+    Items:
+      - GitLab
+      - Docker
+      - Jenkins
+      - Ansible
+      - AWS
+  - Family: Operating Systems
+    Items:
+      - Linux
+      - VxWorks RTOS
+      - Windows
+      - MacOS
+  - Family: Misc
+    Items:
+      - Doxygen
+      - LaTeX
+      - DOORS
+      - JAMA
+      - JIRA
+
+Coursework:
+  - Artificial Intelligence
+  - Machine Learning
+  - '<a href="https://quantsoftware.gatech.edu/Machine_Learning_for_Trading_Course">Machine Learning for Trading</a>'
+  - SW Architecture & Design
+  - Computer Networks
+  - Information Security
+  - Software Analysis & Testing
+  - '<a href="https://omscs6750.gatech.edu/">Human Computer Interaction</a>'
+  - User Interface Design
+  - Personal Health Systems
+
+Interests:
+  - Cooking
+  - Hiking
+  - Camping
+  - Biking
+  - Design
+  - Coding
+  - Board Games
+  - Photography
+
+Diplomas:
+  - Ceritified Scrum Developer
+  - Certified Scrum Master
+  - '<a href="https://www.windriver.com/products/vxworks/certification-profiles/#vxworks_653">VxWorks 653</a>'
+
+
+
+
+

@@ -1,0 +1,25 @@
+.education {
+    &__item {
+        @include avoid-break;
+        &:not(:first-child) {
+            padding-top: 1.0rem;
+        }
+        &:last-child {
+            @media print {
+                padding-bottom: 5.0rem;
+            }
+        }
+    }
+    &__title,
+    &__details,
+    &__place {
+        text-align: left;
+    	color: $color-primary;
+    }
+    &__date {
+        float: right;
+        text-align: right;
+        width: 30%;
+        color: $color-secondary;
+    }
+}

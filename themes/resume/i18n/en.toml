@@ -1,0 +1,29 @@
+[profile]
+other = "Profile"
+
+[experience]
+other = "Experience"
+
+[education]
+other = "Education"
+
+[projects]
+other = "Projects"
+
+[awards]
+other = "Awards & Recognition"
+
+[skills]
+other = "Skills"
+
+[languages]
+other = "Languages"
+
+[coursework]
+other = "Specialized Courses"
+
+[diplomas]
+other = "Certifications"
+
+[interests]
+other = "Interests"

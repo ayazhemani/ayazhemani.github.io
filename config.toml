@@ -1,0 +1,15 @@
+baseURL = "https://hemani.dev/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+theme = "resume"
+title = "Hemani - Resume"
+
+[params]
+pages = 2
+colorPageBackground = "#7d7d7d" 	#site_background
+colorLight = "#fff" 				#page_color
+colorRightColumnBackground = "#fff" #vertical_banner
+colorPrimary = "#000" 				#primary_header_text
+colorSecondary = "#B71C1C" 			#tag_color
+colorPrimaryText = "#fff" 			#tag_text
+colorDark = "#000" 					#body_text
