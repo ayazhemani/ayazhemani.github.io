@@ -10,16 +10,26 @@ BasicInfo:
     - Icon: fas fa-globe
       Info: '<a href="https://hemani.dev">hemani.dev</a>'
     - Icon: fas fa-map-marker-alt
-      Info: Minneapolis, MN
+      Info: Boston, MA
 
 Profile: Software engineer with a passion for leadership development, volunteering, and agile innovation
 
 Experience:
+  - Employer: Sonos Inc
+    Place: Boston, MA
+    Positions:
+      - Title: Sr Software Engineer
+        Date: Aug 2020 - Present
+        Details:
+          - Develop new Player Platform features for embedded, high performance devices (home theater and standalone speakers).
+          - Develop real-time embedded interfaces for LEDs, capacitive touch, buttons, and audio feedback modules.
+        Badges: ['Python', 'C/C++', 'AWS']
+        
   - Employer: General Dynamics – Mission Systems
     Place: Minneapolis, MN
     Positions:
       - Title: Adv Software Engineer
-        Date: Oct 2018 - Present
+        Date: Oct 2018 - Aug 2020
         Details:
           - Led a software team of 20+ to design, develop, integrate, test, and release software components and APIs for the High Resolution Programmable Display Generator (HRPDG)
           - Developed embedded NIST-compliant security services for RTOS based software products
