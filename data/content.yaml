@@ -19,17 +19,18 @@ Experience:
     Place: Boston, MA
     Positions:
       - Title: Sr Software Engineer
-        Date: Aug 2020 - Present
+        Date: Aug 2021 - Present
         Details:
-          - Created new Player Platform features for embedded, high performance devices (home theater and standalone speakers).
+          - Used data-driven development to create new Player Platform features for embedded, high performance devices.
           - Developed real-time embedded interfaces for LEDs, capacitive touch, buttons, and audio feedback modules.
+          - Led resolutions for critical, high-serverity issues and created automation to detect future failures.
         Badges: ['Python', 'C/C++', 'AWS']
         
   - Employer: General Dynamics – Mission Systems
     Place: Minneapolis, MN
     Positions:
       - Title: Adv Software Engineer
-        Date: Oct 2018 - Aug 2020
+        Date: Oct 2018 - Aug 2021
         Details:
           - Led a software team of 20+ to design, develop, integrate, test, and release software components and APIs for the High Resolution Programmable Display Generator (HRPDG)
           - Developed embedded NIST-compliant security services for RTOS based software products
