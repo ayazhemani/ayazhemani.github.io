@@ -21,11 +21,11 @@ Experience:
       - Title: Sr Software Engineer
         Date: Aug 2021 - Present
         Details:
-          - Used data-driven development to create new Player Platform features for embedded, high performance devices.
-          - Developed real-time embedded interfaces for LEDs, capacitive touch, buttons, and audio feedback modules.
-          - Led resolutions for critical, high-serverity issues and created automation to detect future failures.
+          - Created new data-driven Player Platform features for embedded, high performance devices.
+          - Developed interfaces for LEDs, capacitive touch, buttons, and audio feedback modules.
+          - Led resolutions for critical issues and created automation to detect future failures.
         Badges: ['Python', 'C/C++', 'AWS']
-        
+
   - Employer: General Dynamics – Mission Systems
     Place: Minneapolis, MN
     Positions:
@@ -39,8 +39,8 @@ Experience:
   - Employer: The Nielsen Company
     Place: Tampa, FL
     Positions:
-      
-      - Title: Innovations Lead, Research and Development        
+
+      - Title: Innovations Lead, Research and Development
         Date: May 2017 - Oct 2018
         Details:
           - Defined business opportunities to increase quality, reduce cycle time, and reduce cost
@@ -107,7 +107,7 @@ Projects:
     Organization: 'LogikLabs Exhibit: USF Engineering Expo'
     Date: Spring 2011
     Details:
-      - Built an RC car that interfaced with a microcontroller and a configured router in order to receive remote WiFi requests. This extended the range of the car to over 500ft.
+      - Built an RC car that interfaced with a microcontroller and a configured router in order to receive remote WiFi requests. This extended the range of the car to over 500m.
     Badges: ['Arduino', 'WiFi', 'Networking']
   - Title: '<a href="https://scholarcommons.usf.edu/cgi/viewcontent.cgi?article=4801&context=ujmm">Automated Determination of a Package’s Center of Mass</a>'
     Organization: 'MAC 2283: Engineering Calculus III'

@@ -5,6 +5,11 @@
         &:not(:first-child) {
             padding-top: 1.5rem;
         }
+        &:last-child {
+            @media print {
+                padding-bottom: 5.0rem;
+            }
+        }
     }
 
     &__header,
