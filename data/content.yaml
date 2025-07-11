@@ -21,9 +21,10 @@ Experience:
       - Title: Principal Software Engineer
         Date: Aug 2021 - Present
         Details:
-          - Created new data-driven Player Platform features for embedded, high performance devices.
-          - Developed interfaces for LEDs, capacitive touch, buttons, and audio feedback modules.
-          - Led resolutions for critical issues and created automation to detect future failures.
+          - Create new data-driven Player Platform features for embedded, high performance devices.
+          - Develop embedded performance profiling mechanisms to baseline, monitor, and automate subsystem performance metrics (CPU, RAM, Flash, Thermal, network traffic).
+          - Develop interfaces for LEDs, capacitive touch, buttons, and audio feedback modules.
+          - Lead resolutions for critical issues and created automation to detect future failures.
         Badges: ['Python', 'C/C++', 'AWS']
 
   - Employer: General Dynamics – Mission Systems
